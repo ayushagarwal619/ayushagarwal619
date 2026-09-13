@@ -1,13 +1,15 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Ayush%20Kumar%20Agarwal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20AI%2FML%20Enthusiast%20%C2%B7%20B.Tech%20CSBS&descAlignY=55&descSize=15" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=6E40C9&center=true&vCenter=true&width=720&lines=Shipped+SmartAttend+%E2%80%94+AI+Attendance+System;Shipped+GymGuru+%E2%80%94+Real-time+AI+Fitness+Coach;Shipped+ResuMatch+%E2%80%94+ATS+Resume+Analyzer;Building+RoopAntar+%E2%80%94+Neural+Style+Transfer;Mastering+System+Design+%26+DSA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=6E40C9&center=true&vCenter=true&width=720&lines=Built+SmartAttend+%E2%80%94+AI+Attendance+System;Built+GymGuru+%E2%80%94+Real-time+AI+Fitness+Coach;Built+ResuMatch+%E2%80%94+ATS+Resume+Analyzer;Building+RoopAntar+%E2%80%94+Neural+Style+Transfer;Mastering+System+Design+%26+DSA)](https://git.io/typing-svg)
 
 <br/>
 
+<a href="https://ayush-myportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ayush-kumar-agarwal-1970a8401/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;&nbsp;
 <a href="mailto:ayushtechnoworld@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -39,14 +41,14 @@ I'm a **Computer Science & Business Systems** undergraduate at **Heritage Instit
 
 <br/>
 
-## 🏆 Shipped Projects
+## 🏆 Products Build
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <div style="border: 1px solid #333; border-radius: 8px; padding: 18px; background: rgba(110, 64, 201, 0.08);">
         <h4 style="margin: 0 0 8px 0; color: #6E40C9; font-size: 16px;">🎯 SmartAttend</h4>
-        <img src="https://img.shields.io/badge/SHIPPED-238636?style=flat-square&logo=github&logoColor=white" alt="Status"/>
+        <img src="https://img.shields.io/badge/BUILT-238636?style=flat-square&logo=github&logoColor=white" alt="Status"/>
         <p style="margin: 12px 0; font-size: 13px; line-height: 1.6; color: #aaa;">
           AI-powered attendance management system — facial recognition, QR attendance, analytics, and separate teacher/student dashboards.
         </p>
@@ -61,7 +63,7 @@ I'm a **Computer Science & Business Systems** undergraduate at **Heritage Instit
     <td width="33%" valign="top">
       <div style="border: 1px solid #333; border-radius: 8px; padding: 18px; background: rgba(110, 64, 201, 0.08);">
         <h4 style="margin: 0 0 8px 0; color: #6E40C9; font-size: 16px;">🏋️ GymGuru</h4>
-        <img src="https://img.shields.io/badge/SHIPPED-238636?style=flat-square&logo=github&logoColor=white" alt="Status"/>
+        <img src="https://img.shields.io/badge/BUILT-238636?style=flat-square&logo=github&logoColor=white" alt="Status"/>
         <p style="margin: 12px 0; font-size: 13px; line-height: 1.6; color: #aaa;">
           Real-time AI fitness coach — live pose detection, posture correction, intelligent rep counting, and an AI voice coach.
         </p>
@@ -76,7 +78,7 @@ I'm a **Computer Science & Business Systems** undergraduate at **Heritage Instit
     <td width="33%" valign="top">
       <div style="border: 1px solid #333; border-radius: 8px; padding: 18px; background: rgba(110, 64, 201, 0.08);">
         <h4 style="margin: 0 0 8px 0; color: #6E40C9; font-size: 16px;">📄 ResuMatch</h4>
-        <img src="https://img.shields.io/badge/SHIPPED-238636?style=flat-square&logo=github&logoColor=white" alt="Status"/>
+        <img src="https://img.shields.io/badge/BUILT-238636?style=flat-square&logo=github&logoColor=white" alt="Status"/>
         <p style="margin: 12px 0; font-size: 13px; line-height: 1.6; color: #aaa;">
           ATS resume analyzer — scores resume-to-job-description compatibility using NLP, semantic similarity, and LLM-generated feedback.
         </p>
@@ -86,6 +88,42 @@ I'm a **Computer Science & Business Systems** undergraduate at **Heritage Instit
           <img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white"/>
         </p>
         <a href="https://github.com/ayushagarwal619/RESUMATCH"><img src="https://img.shields.io/badge/View_Repo-6E40C9?style=flat-square&logo=github&logoColor=white"/></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <div style="border: 1px solid #333; border-radius: 8px; padding: 18px; background: rgba(110, 64, 201, 0.08);">
+        <h4 style="margin: 0 0 8px 0; color: #6E40C9; font-size: 16px;">🏛️ JanSewa</h4>
+        <img src="https://img.shields.io/badge/BUILT-238636?style=flat-square&logo=github&logoColor=white" alt="Status"/>
+        <p style="margin: 12px 0; font-size: 13px; line-height: 1.6; color: #aaa;">
+          Civic-tech platform — helps citizens discover government welfare schemes, report location-aware civic grievances, and track complaint resolution through transparent workflows.
+        </p>
+        <p style="margin: 0;">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        </p>
+        <a href="https://github.com/ayushagarwal619/JANSEWA"><img src="https://img.shields.io/badge/View_Repo-6E40C9?style=flat-square&logo=github&logoColor=white"/></a>
+        &nbsp;
+        <a href="https://jansewa-vert.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-238636?style=flat-square&logo=vercel&logoColor=white"/></a>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div style="border: 1px solid #333; border-radius: 8px; padding: 18px; background: rgba(110, 64, 201, 0.08);">
+        <h4 style="margin: 0 0 8px 0; color: #6E40C9; font-size: 16px;">⛓️ VeriFund</h4>
+        <img src="https://img.shields.io/badge/BUILT-238636?style=flat-square&logo=github&logoColor=white" alt="Status"/>
+        <p style="margin: 12px 0; font-size: 13px; line-height: 1.6; color: #aaa;">
+          Transparent disaster-relief platform — donations, fund requests, and DAO-based approvals recorded and verifiable on the blockchain for secure, accountable fund distribution. HACKFORGE Finalist.
+        </p>
+        <p style="margin: 0;">
+          <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        </p>
+        <a href="https://github.com/ayushagarwal619/Verifund"><img src="https://img.shields.io/badge/View_Repo-6E40C9?style=flat-square&logo=github&logoColor=white"/></a>
+        &nbsp;
+        <a href="https://verifund-xi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-238636?style=flat-square&logo=vercel&logoColor=white"/></a>
       </div>
     </td>
   </tr>
@@ -238,6 +276,6 @@ I'm a **Computer Science & Business Systems** undergraduate at **Heritage Instit
 
 **Open to:** 🎓 Internships · 🤝 Technical Collaborations · 🚀 Open Source · 💻 Full Stack & AI/ML Projects
 
-**Get in Touch:** [Email](mailto:ayushtechnoworld@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ayush-kumar-agarwal-1970a8401/) · [GitHub](https://github.com/ayushagarwal619)
+**Get in Touch:** [Portfolio](https://ayush-myportfolio.vercel.app/) · [Email](mailto:ayushtechnoworld@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ayush-kumar-agarwal-1970a8401/) · [GitHub](https://github.com/ayushagarwal619)
 
 </div>
